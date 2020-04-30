@@ -1,3 +1,3 @@
 # WebDasar
 
-Dibuat menggunakan CSS3 & HTMl5 refence dicoding academy
+Dibuat menggunakan CSS3 & Html5 refence dicoding academy
